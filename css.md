@@ -5,3 +5,6 @@ description: Global CSS settings, fundamental HTML elements, styled and enhanced
 category: css
 ---
 ##Getting STarted WIth Bootstrap
+h1{
+  color:red
+}
