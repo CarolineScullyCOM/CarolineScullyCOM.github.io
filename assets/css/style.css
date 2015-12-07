@@ -20,6 +20,9 @@ h1 {  text-align: center;
 .btn-primary {
   color: Indigo
 }
+.btn-primary{
+  font-size: 50px
+}
 .btn-primary {
   background-color: white
 }
@@ -38,15 +41,12 @@ h1 {  text-align: center;
 .btn-primary{
   text-align: center;
 }
-#meme1{
-  border-width: thick;
-}
-#meme1{
-  border-color: red
-}
 h2{
   font-family: Special Elite;
 }
 h2{
   font-size: 100px;
+}
+h2{
+  text-align: center
 }
