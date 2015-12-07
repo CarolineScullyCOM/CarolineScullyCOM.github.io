@@ -1,5 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Lobster);
 @import url(https://fonts.googleapis.com/css?family=Rock+Salt);
+@import url(https://fonts.googleapis.com/css?family=Special+Elite);
 
 .col-md-1 {
   border-left: 1px solid black;
@@ -24,4 +25,10 @@ h1 {  text-align: center;
 }
 .btn-primary{
   border-color: white
+}
+.btn-primary{
+  a:hover
+}
+btn-primary:hover{
+  color: Linen
 }
