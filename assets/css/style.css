@@ -3,17 +3,19 @@
   border-right: 1px solid black;
   height: 1080px;
 }
+@import url(https://fonts.googleapis.com/css?family=Lobster);
+
 h1{  color:Red
 }
 h1{  border-style: groove;
 }
 h1{  border-width: thick;
 }
-h1{  border-color: Tomato
+h1{  border-color: DarkMagenta
 }
-h1 { font-size: 800%;
+h1 { font-size: 300%;
 }
-h1{  font-family: Brush Script Std cursive;
+h1{  font-family: Lobster;
 }
 h1 {  font-stretch: ultra-condensed;
 }
