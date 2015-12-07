@@ -1,6 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Lobster);
 @import url(https://fonts.googleapis.com/css?family=Rock+Salt);
 @import url(https://fonts.googleapis.com/css?family=Special+Elite);
+@import url(https://fonts.googleapis.com/css?family=Coming+Soon);
 
 .col-md-1 {
   border-left: 1px solid black;
@@ -62,6 +63,9 @@ h3{
 h3{
   text-align: center;
 }
+h3{
+  color: DarkMagenta;
+}
 h4{
   font-family: Rock Salt;
 }
@@ -70,4 +74,7 @@ h4{
 }
 h4{
   color: Grey
+}
+p{
+  font-family: Coming Soon;
 }
