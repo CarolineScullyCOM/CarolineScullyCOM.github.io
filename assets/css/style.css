@@ -16,3 +16,6 @@ h1 {  font-stretch: ultra-condensed;
 }
 h1 {  text-align: center;
 }
+.btn-primary {
+  color: red
+}
