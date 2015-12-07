@@ -39,11 +39,5 @@ h1 {  text-align: center;
   text-align: center;
 }
 #meme1{
-  border-color: black
-}
-#meme1{
-  border-width: medium;
-}
-img{
-  border-width: thick;
+  align-items: center;
 }
