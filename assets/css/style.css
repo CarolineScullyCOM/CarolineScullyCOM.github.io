@@ -3,3 +3,19 @@
   border-right: 1px solid black;
   height: 1080px;
 }
+h1{  color:Red
+}
+h1{  border-style: groove;
+}
+h1{  border-width: thick;
+}
+h1{  border-color: Tomato
+}
+h1 { font-size: 800%;
+}
+h1{  font-family: Brush Script Std cursive;
+}
+h1 {  font-stretch: ultra-condensed;
+}
+h1 {  text-align: center;
+}
