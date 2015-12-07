@@ -29,3 +29,9 @@ h1 {  text-align: center;
 .btn-primary:hover{
   background-color: White
 }
+.btn-primary:hover{
+  color: Indigo
+}
+.btn-primary{
+  border-style: ridge;
+}
