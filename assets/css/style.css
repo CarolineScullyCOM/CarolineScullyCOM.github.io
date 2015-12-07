@@ -54,11 +54,20 @@ h2{
   text-align: center
 }
 h3{
-  font-family: Special Elite;
+  font-family: Lobster;
 }
 h3{
   font-size: 50px;
 }
 h3{
   text-align: center;
+}
+h4{
+  font-family: Rock Salt;
+}
+h4{
+  font-size: 20px;
+}
+h4{
+  color: Grey
 }
