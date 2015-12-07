@@ -39,5 +39,6 @@ h1 {  text-align: center;
   text-align: center;
 }
 #meme1{
-  float: left;
+  border-width: thick;
+  border-color: red
 }
