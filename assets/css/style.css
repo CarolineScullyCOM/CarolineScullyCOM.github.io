@@ -21,10 +21,10 @@ h1 {  text-align: center;
   color: Indigo
 }
 .btn-primary{
-  font-size: 10px
+  font-size: 20px
 }
 .btn-primary{
-  font-family: Rock Salt
+  font-family: Rock Salt;
 }
 .btn-primary {
   background-color: white
