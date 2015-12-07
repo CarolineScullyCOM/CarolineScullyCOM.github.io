@@ -30,8 +30,8 @@ h1 {  text-align: center;
   background-color: White
 }
 .btn-primary:hover{
-  color: Indigo
+  text-color: Indigo
 }
-.btn-primary{
-  border-style: ridge;
+.btn-primary:hover{
+  border-color: white
 }
