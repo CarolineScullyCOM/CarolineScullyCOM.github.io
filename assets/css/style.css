@@ -1,20 +1,14 @@
+@import url(https://fonts.googleapis.com/css?family=Lobster);
 .col-md-1 {
   border-left: 1px solid black;
   border-right: 1px solid black;
   height: 1080px;
 }
-
 h1{  color:DarkMagenta
 }
-h1{  border-style: groove;
+h1 { font-size: 500%;
 }
-h1{  border-width: thick;
-}
-h1{  border-color: DarkMagenta
-}
-h1 { font-size: 300%;
-}
-h1{  font: inherit;
+h1{  font-family: Lobster;
 }
 h1 {  font-stretch: ultra-condensed;
 }
