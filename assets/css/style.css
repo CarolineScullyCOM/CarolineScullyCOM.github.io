@@ -1,4 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Lobster);
+@import url(https://fonts.googleapis.com/css?family=Rock+Salt);
+
 .col-md-1 {
   border-left: 1px solid black;
   border-right: 1px solid black;
@@ -13,4 +15,10 @@ h1{  font-family: Lobster;
 h1 {  font-stretch: ultra-condensed;
 }
 h1 {  text-align: center;
+}
+title {
+  font-size:550%
+}
+title{
+  font-family:Rock+Salt 
 }
