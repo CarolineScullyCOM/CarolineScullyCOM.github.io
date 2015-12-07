@@ -26,9 +26,6 @@ h1 {  text-align: center;
 .btn-primary{
   border-color: white
 }
-.btn-primary{
-  a:hover
-}
 .btn-primary:hover{
-  background-color: Linen
+  background-color: White
 }
