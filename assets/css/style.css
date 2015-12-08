@@ -22,7 +22,7 @@ h1 {  text-align: center;
   color: Indigo
 }
 .btn-primary{
-  font-size: 23px
+  font-size: 18px
 }
 .btn-primary{
   font-family: Rock Salt;
@@ -89,5 +89,5 @@ p{
   padding-left: 250px;
 }
 #waitress{
-  align-self: center;
+
 }
