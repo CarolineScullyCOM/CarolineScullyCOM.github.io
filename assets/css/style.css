@@ -25,7 +25,7 @@ h1 {
   border-color: DarkMagenta
 }
 h1 {
-  border-style: dotted;
+  border-style: double;
 }
 .btn-primary {
   color: Indigo
@@ -116,6 +116,15 @@ h5{
   float: right;
 }
 h5{
-  padding-left: 50px;
-  padding-right: 50px;
+  padding-left: 60px;
+  padding-right: 60px;
+}
+h5{
+  border-color: DarkMagenta
+}
+h5{
+  border-width: medium;
+}
+h5 {
+  border-style: dotted;
 }
