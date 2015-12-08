@@ -85,6 +85,6 @@ p{
   padding-right: 250px;
   padding-left: 250px;
 }
-.waitress{
-  align-self: center;
+#waitress{
+  float:left;
 }
