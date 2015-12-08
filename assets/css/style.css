@@ -18,6 +18,15 @@ h1 {  font-stretch: ultra-condensed;
 }
 h1 {  text-align: center;
 }
+h1 {
+  border-width: thin;
+}
+h1 {
+  border-color: DarkMagenta
+}
+h1 {
+  border-style: inherit;
+}
 .btn-primary {
   color: Indigo
 }
