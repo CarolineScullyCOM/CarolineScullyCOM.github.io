@@ -82,6 +82,9 @@ p{
   font-size: 15px;
 }
 p{
+  text-align: center;
+}
+p{
   padding-right: 250px;
   padding-left: 250px;
 }
