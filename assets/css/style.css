@@ -112,3 +112,12 @@ h5{
 h5{
   float: right;
 }
+h5{
+  border-color: DarkMagenta
+}
+h5{
+  border-width: thick;
+}
+h5{
+  border-style: groove;
+}
