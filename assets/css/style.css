@@ -25,7 +25,7 @@ h1 {
   border-color: DarkMagenta
 }
 h1 {
-  border-style: inherit;
+  border-style: dotted;
 }
 .btn-primary {
   color: Indigo
@@ -88,7 +88,7 @@ p{
   font-family: Coming Soon;
 }
 p{
-  font-size: 15px;
+  font-size: 16px;
 }
 p{
   text-align: center;
