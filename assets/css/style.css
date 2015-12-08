@@ -84,11 +84,11 @@ p{
 p{
   font-size: 18px;
 }
-#containter{
-  padding-left: 300px;
-  padding-right: 100px;
-}
 p{
   padding-right: 300px;
   padding-left: 300px;
+}
+img{
+  padding-left: 300px;
+  padding-right: 300px;
 }
