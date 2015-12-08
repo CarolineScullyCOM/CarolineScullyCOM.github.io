@@ -100,6 +100,9 @@ p{
 #waitress{
   float:left;
 }
+#waitress{
+  padding-right: 20px;
+}
 h5{
   font-family: Coming Soon;
 }
